@@ -1,1 +1,1 @@
-A simple numpy-based Hopfield Network implementation
+A simple numpy-based **Hopfield Network** implementation
